@@ -1,0 +1,20 @@
+Quero desenvolver um sistema simples de gerenciamento de biblioteca. 
+
+O sistema deve seguir as seguintesvregras de negócio:
+
+1. Criar uma classe [Livro] com as propriedades:
+   - Titulo - string
+   - Autor - string
+   - AnoPublicacao -int
+
+2. Criar uma classe [Biblioteca] com CRUD que:
+   - Armazene uma lista de livros
+   - Tenha métodos para:
+       a) Adicionar um novo livro
+       b) Listar todos os livros
+       c) Buscar livros por autor
+       d) Remover livros da biblioteca
+
+3. O código deve ser do tipo console, e usar encapsulamento, listas, métodos claros.
+
+Por favor, gere o código completo em C# ,para rodar no console.

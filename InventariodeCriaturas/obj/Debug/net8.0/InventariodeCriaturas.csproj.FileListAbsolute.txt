@@ -1,0 +1,14 @@
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\bin\Debug\net8.0\InventariodeCriaturas.exe
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\bin\Debug\net8.0\InventariodeCriaturas.deps.json
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\bin\Debug\net8.0\InventariodeCriaturas.runtimeconfig.json
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\bin\Debug\net8.0\InventariodeCriaturas.dll
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\bin\Debug\net8.0\InventariodeCriaturas.pdb
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.AssemblyInfoInputs.cache
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.AssemblyInfo.cs
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.csproj.CoreCompileInputs.cache
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.dll
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\refint\InventariodeCriaturas.dll
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.pdb
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\InventariodeCriaturas.genruntimeconfig.cache
+C:\Users\Taly\Desktop\GFT\InventariodeCriaturas\obj\Debug\net8.0\ref\InventariodeCriaturas.dll
